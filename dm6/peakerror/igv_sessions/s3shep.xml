@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="dm6" hasGeneTrack="true" hasSequenceTrack="true" locus="chr3R:14907822-15023822" nextAutoscaleGroup="4" path="/Users/athersh/Desktop/ml/igv_sessions/s3shep.xml" version="8">
+    <Resources>
+        <Resource path="/Users/athersh/Desktop/ml/bigwigs/sjl_s3_shep_R1_coverage.bw"/>
+        <Resource path="/Users/athersh/Desktop/ml/bigwigs/sjl_s3_input_R1_coverage.bw"/>
+    </Resources>
+    <Panel height="390" name="DataPanel" width="1133">
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/athersh/Desktop/ml/bigwigs/sjl_s3_shep_R1_coverage.bw" name="sjl_s3_shep_R1_coverage.bw" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="42.1858" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/athersh/Desktop/ml/bigwigs/sjl_s3_input_R1_coverage.bw" name="sjl_s3_input_R1_coverage.bw" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="42.1858" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="191" name="FeaturePanel" width="1133">
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="Reference sequence" name="Reference sequence" sortable="false" visible="true"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;817.0;255,255,255;0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="35" id="dm6_genes" name="Gene" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="817.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <PanelLayout dividerFractions="0.6666666666666666"/>
+    <Regions>
+        <Region chromosome="chr2L" description="noPeaks" end="900080" start="873182"/>
+        <Region chromosome="chr2L" description="peakStart" end="901536" start="901164"/>
+        <Region chromosome="chr2L" description="peakEnd" end="901944" start="901633"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1064378" start="906921"/>
+        <Region chromosome="chr2L" description="peakStart" end="1075864" start="1075350"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1076402" start="1075984"/>
+        <Region chromosome="chr2L" description="peakStart" end="1077652" start="1077013"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1078520" start="1077923"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1105677" start="1079041"/>
+        <Region chromosome="chr2L" description="peakStart" end="1108198" start="1107162"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1108868" start="1108402"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1117294" start="1109357"/>
+        <Region chromosome="chr2L" description="peaks" end="1118457" start="1118199"/>
+        <Region chromosome="chr2L" description="peakStart" end="1119016" start="1118787"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1120163" start="1119729"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1155110" start="1120996"/>
+        <Region chromosome="chr2L" description="peakStart" end="1157837" start="1156869"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1159878" start="1159173"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1183471" start="1160641"/>
+        <Region chromosome="chr2L" description="peakStart" end="1185992" start="1185057"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1187115" start="1186328"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1216244" start="1187378"/>
+        <Region chromosome="chr2L" description="peakStart" end="1220433" start="1219766"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1221869" start="1221214"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1226001" start="1222066"/>
+        <Region chromosome="chr2L" description="peakStart" end="1227298" start="1226757"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1227731" start="1227420"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1299972" start="1228592"/>
+        <Region chromosome="chr2L" description="peakStart" end="1302114" start="1301937"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1302420" start="1302249"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1361084" start="1303220"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1416989" start="1362405"/>
+        <Region chromosome="chr2L" description="peakStart" end="1420389" start="1419658"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1421163" start="1420475"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1425411" start="1421836"/>
+        <Region chromosome="chr2L" description="peakStart" end="1426921" start="1426607"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1427534" start="1427150"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1433049" start="1427965"/>
+        <Region chromosome="chr2L" description="peakStart" end="1433936" start="1433613"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1434409" start="1434065"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1638866" start="1435484"/>
+        <Region chromosome="chr2L" description="peaks" end="1644153" start="1642737"/>
+        <Region chromosome="chr2L" description="peaks" end="1644806" start="1644233"/>
+        <Region chromosome="chr2L" description="peaks" end="1651833" start="1650686"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1666086" start="1652966"/>
+        <Region chromosome="chr2L" description="peaks" end="1667945" start="1667241"/>
+        <Region chromosome="chr2L" description="peaks" end="1669068" start="1668495"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1677833" start="1669634"/>
+        <Region chromosome="chr2L" description="peakStart" end="1679167" start="1678906"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1680642" start="1680250"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1685168" start="1681167"/>
+        <Region chromosome="chr2L" description="peakStart" end="1686096" start="1685862"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1686708" start="1686365"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1714910" start="1687356"/>
+        <Region chromosome="chr2L" description="peakStart" end="1715882" start="1715765"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1716163" start="1715930"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1723666" start="1717015"/>
+        <Region chromosome="chr2L" description="peakStart" end="1724315" start="1724126"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1724695" start="1724421"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1727247" start="1724951"/>
+        <Region chromosome="chr2L" description="peakStart" end="1727710" start="1727401"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1728050" start="1727826"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1729479" start="1728282"/>
+        <Region chromosome="chr2L" description="peakStart" end="1729830" start="1729635"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1730408" start="1729933"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1736402" start="1730564"/>
+        <Region chromosome="chr2L" description="peakStart" end="1737417" start="1737011"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1737972" start="1737567"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1751492" start="1741140"/>
+        <Region chromosome="chr2L" description="peakStart" end="1752108" start="1751970"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1752299" start="1752183"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1803745" start="1752966"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1882930" start="1809057"/>
+        <Region chromosome="chr2L" description="peakStart" end="1884654" start="1884376"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1885285" start="1884810"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1910534" start="1886648"/>
+        <Region chromosome="chr2L" description="peakStart" end="1911677" start="1911301"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1912198" start="1911809"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1967243" start="1912659"/>
+        <Region chromosome="chr2L" description="peakStart" end="1970530" start="1969986"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1971372" start="1970766"/>
+        <Region chromosome="chr2L" description="peakStart" end="1972757" start="1972365"/>
+        <Region chromosome="chr2L" description="peakEnd" end="1973232" start="1972922"/>
+        <Region chromosome="chr2L" description="noPeaks" end="1985279" start="1973733"/>
+        <Region chromosome="chr2L" description="peaks" end="1987950" start="1987344"/>
+        <Region chromosome="chr2L" description="peaks" end="1988507" start="1988147"/>
+        <Region chromosome="chr2L" description="noPeaks" end="2118819" start="1994035"/>
+        <Region chromosome="chr2L" description="peakStart" end="2130297" start="2129734"/>
+        <Region chromosome="chr2L" description="peakEnd" end="2131720" start="2130966"/>
+        <Region chromosome="chr2L" description="peakStart" end="2133097" start="2132778"/>
+        <Region chromosome="chr2L" description="peakEnd" end="2133506" start="2133220"/>
+        <Region chromosome="chr2L" description="noPeaks" end="2146288" start="2134146"/>
+        <Region chromosome="chr2L" description="noPeaks" end="2159891" start="2147492"/>
+        <Region chromosome="chr2L" description="peaks" end="2161941" start="2160925"/>
+        <Region chromosome="chr2L" description="peaks" end="2163777" start="2162154"/>
+        <Region chromosome="chr2L" description="noPeaks" end="2177726" start="2164147"/>
+        <Region chromosome="chr2R" description="noPeaks" end="4862751" start="4849276"/>
+        <Region chromosome="chr2R" description="noPeaks" end="4906043" start="4863146"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5037571" start="4908879"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5213849" start="5049033"/>
+        <Region chromosome="chr2R" description="peaks" end="5219372" start="5217539"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5248937" start="5220652"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5260017" start="5252047"/>
+        <Region chromosome="chr2R" description="peakStart" end="5260711" start="5260301"/>
+        <Region chromosome="chr2R" description="peakEnd" end="5261113" start="5260744"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5292783" start="5261951"/>
+        <Region chromosome="chr2R" description="peaks" end="5294151" start="5293527"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5348063" start="5296135"/>
+        <Region chromosome="chr2R" description="peaks" end="5350807" start="5350508"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5594987" start="5351714"/>
+        <Region chromosome="chr2R" description="peakStart" end="5604891" start="5604365"/>
+        <Region chromosome="chr2R" description="peakEnd" end="5605235" start="5604914"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5650813" start="5607568"/>
+        <Region chromosome="chr2R" description="peakStart" end="5652918" start="5652531"/>
+        <Region chromosome="chr2R" description="peakEnd" end="5653994" start="5653642"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5662830" start="5654223"/>
+        <Region chromosome="chr2R" description="peakStart" end="5663820" start="5663477"/>
+        <Region chromosome="chr2R" description="peakEnd" end="5664221" start="5663878"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5695975" start="5665002"/>
+        <Region chromosome="chr2R" description="peakStart" end="5697701" start="5697412"/>
+        <Region chromosome="chr2R" description="peakEnd" end="5698314" start="5697848"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5701237" start="5698469"/>
+        <Region chromosome="chr2R" description="peaks" end="5702312" start="5701864"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5724805" start="5702864"/>
+        <Region chromosome="chr2R" description="peakStart" end="5726996" start="5726467"/>
+        <Region chromosome="chr2R" description="peakEnd" end="5727706" start="5727019"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5780135" start="5728631"/>
+        <Region chromosome="chr2R" description="peakStart" end="5782755" start="5782488"/>
+        <Region chromosome="chr2R" description="peakEnd" end="5783238" start="5782913"/>
+        <Region chromosome="chr2R" description="noPeaks" end="5898997" start="5785546"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22260733" start="22197517"/>
+        <Region chromosome="chr3L" description="peakStart" end="22262945" start="22262721"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22263376" start="22263024"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22266062" start="22263514"/>
+        <Region chromosome="chr3L" description="peaks" end="22266902" start="22266487"/>
+        <Region chromosome="chr3L" description="peaks" end="22268027" start="22267185"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22287252" start="22271488"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22382598" start="22290833"/>
+        <Region chromosome="chr3L" description="peaks" end="22385322" start="22384935"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22400443" start="22386637"/>
+        <Region chromosome="chr3L" description="peaks" end="22402098" start="22401460"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22407004" start="22402456"/>
+        <Region chromosome="chr3L" description="peaks" end="22408241" start="22407712"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22551821" start="22410016"/>
+        <Region chromosome="chr3L" description="peakStart" end="22555947" start="22555575"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22556917" start="22556271"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22561456" start="22557340"/>
+        <Region chromosome="chr3L" description="peakStart" end="22562872" start="22562682"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22563335" start="22562964"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22611776" start="22565031"/>
+        <Region chromosome="chr3L" description="peakStart" end="22617377" start="22617121"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22617841" start="22617509"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22622823" start="22618118"/>
+        <Region chromosome="chr3L" description="peaks" end="22624664" start="22624175"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22714605" start="22628521"/>
+        <Region chromosome="chr3L" description="peaks" end="22717457" start="22717189"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22727087" start="22717559"/>
+        <Region chromosome="chr3L" description="peakStart" end="22728074" start="22727875"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22728463" start="22728165"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22740294" start="22728727"/>
+        <Region chromosome="chr3L" description="peakStart" end="22741412" start="22741158"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22742147" start="22741795"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22760245" start="22742520"/>
+        <Region chromosome="chr3L" description="peaks" end="22766490" start="22760687"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22772609" start="22767394"/>
+        <Region chromosome="chr3L" description="peaks" end="22773782" start="22773146"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22821777" start="22774954"/>
+        <Region chromosome="chr3L" description="peaks" end="22825395" start="22824411"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22833363" start="22825639"/>
+        <Region chromosome="chr3L" description="peakStart" end="22835283" start="22834691"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22836432" start="22835752"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22877915" start="22843092"/>
+        <Region chromosome="chr3L" description="peakStart" end="22878805" start="22878565"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22879370" start="22879019"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22906880" start="22886018"/>
+        <Region chromosome="chr3L" description="peaks" end="22909917" start="22909133"/>
+        <Region chromosome="chr3L" description="peakStart" end="22910230" start="22910045"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22910695" start="22910382"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22941479" start="22911362"/>
+        <Region chromosome="chr3L" description="peaks" end="22943981" start="22942841"/>
+        <Region chromosome="chr3L" description="peaks" end="22946018" start="22945176"/>
+        <Region chromosome="chr3L" description="peakStart" end="22948421" start="22947285"/>
+        <Region chromosome="chr3L" description="peakEnd" end="22949440" start="22948883"/>
+        <Region chromosome="chr3L" description="noPeaks" end="22988731" start="22950143"/>
+        <Region chromosome="chr3L" description="peaks" end="22997212" start="22989219"/>
+        <Region chromosome="chr3L" description="noPeaks" end="23109944" start="22999198"/>
+        <Region chromosome="chr3L" description="noPeaks" end="23118472" start="23111806"/>
+        <Region chromosome="chr3L" description="noPeaks" end="23203428" start="23128840"/>
+        <Region chromosome="chr3R" description="noPeaks" end="13926276" start="13907570"/>
+        <Region chromosome="chr3R" description="noPeaks" end="13975653" start="13927141"/>
+        <Region chromosome="chr3R" description="peaks" end="13980755" start="13978919"/>
+        <Region chromosome="chr3R" description="noPeaks" end="13982656" start="13981024"/>
+        <Region chromosome="chr3R" description="peakStart" end="13983496" start="13983050"/>
+        <Region chromosome="chr3R" description="peakEnd" end="13984827" start="13983900"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14022469" start="13985664"/>
+        <Region chromosome="chr3R" description="peaks" end="14024790" start="14023941"/>
+        <Region chromosome="chr3R" description="peaks" end="14025263" start="14024900"/>
+        <Region chromosome="chr3R" description="peaks" end="14026121" start="14025708"/>
+        <Region chromosome="chr3R" description="peaks" end="14026797" start="14026474"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14030930" start="14027261"/>
+        <Region chromosome="chr3R" description="peakStart" end="14032026" start="14031513"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14032463" start="14032095"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14051467" start="14034319"/>
+        <Region chromosome="chr3R" description="peaks" end="14054000" start="14051530"/>
+        <Region chromosome="chr3R" description="peaks" end="14056357" start="14055888"/>
+        <Region chromosome="chr3R" description="peaks" end="14057072" start="14056693"/>
+        <Region chromosome="chr3R" description="peaks" end="14057726" start="14057414"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14059918" start="14058174"/>
+        <Region chromosome="chr3R" description="peaks" end="14060876" start="14060351"/>
+        <Region chromosome="chr3R" description="peaks" end="14061539" start="14060969"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14107058" start="14063112"/>
+        <Region chromosome="chr3R" description="peakStart" end="14108627" start="14108368"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14109195" start="14108701"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14242939" start="14112081"/>
+        <Region chromosome="chr3R" description="peaks" end="14247625" start="14246452"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14285061" start="14249281"/>
+        <Region chromosome="chr3R" description="peaks" end="14289457" start="14289114"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14507501" start="14294476"/>
+        <Region chromosome="chr3R" description="peakStart" end="14511520" start="14511159"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14512250" start="14511630"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14555853" start="14512265"/>
+        <Region chromosome="chr3R" description="peakStart" end="14557995" start="14557682"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14558320" start="14558040"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14649029" start="14562387"/>
+        <Region chromosome="chr3R" description="peaks" end="14655760" start="14654552"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14694450" start="14662765"/>
+        <Region chromosome="chr3R" description="peakStart" end="14697235" start="14696970"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14697750" start="14697360"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14715115" start="14699504"/>
+        <Region chromosome="chr3R" description="peaks" end="14717692" start="14715723"/>
+        <Region chromosome="chr3R" description="peakStart" end="14724252" start="14723940"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14724699" start="14724387"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14737197" start="14727674"/>
+        <Region chromosome="chr3R" description="peakStart" end="14738082" start="14737762"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14738394" start="14738160"/>
+        <Region chromosome="chr3R" description="peakStart" end="14739227" start="14739049"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14739780" start="14739493"/>
+        <Region chromosome="chr3R" description="peakStart" end="14740760" start="14740420"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14741261" start="14740976"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14744429" start="14741398"/>
+        <Region chromosome="chr3R" description="peakStart" end="14744978" start="14744777"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14745369" start="14745110"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14748796" start="14745664"/>
+        <Region chromosome="chr3R" description="peakStart" end="14749432" start="14749162"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14749840" start="14749500"/>
+        <Region chromosome="chr3R" description="noPeaks" end="14889263" start="14754899"/>
+        <Region chromosome="chr3R" description="peakStart" end="14904062" start="14903689"/>
+        <Region chromosome="chr3R" description="peakEnd" end="14904764" start="14904256"/>
+        <Region chromosome="chr3R" description="noPeaks" end="15023822" start="14907822"/>
+    </Regions>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>

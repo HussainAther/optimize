@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="dm6" hasGeneTrack="true" hasSequenceTrack="true" locus="chr2L:14383975-14508759" nextAutoscaleGroup="2" path="/Users/athersh/Desktop/ml/igv_sessions/cl8cp190.xml" version="8">
+    <Resources>
+        <Resource path="/Users/athersh/Desktop/ml/bigwigs/sjl_cl8_input_R1_coverage.bw"/>
+        <Resource path="/Users/athersh/Desktop/ml/bigwigs/sjl_cl8_cp190_R1_coverage.bw"/>
+    </Resources>
+    <Panel height="390" name="DataPanel" width="1133">
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/athersh/Desktop/ml/bigwigs/sjl_cl8_cp190_R1_coverage.bw" name="sjl_cl8_cp190_R1_coverage.bw" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="44.45205" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/athersh/Desktop/ml/bigwigs/sjl_cl8_input_R1_coverage.bw" name="sjl_cl8_input_R1_coverage.bw" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="44.45205" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="191" name="FeaturePanel" width="1133">
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="Reference sequence" name="Reference sequence" sortable="false" visible="true"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;817.0;255,255,255;0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="35" id="dm6_genes" name="Gene" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="817.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <PanelLayout dividerFractions="0.6666666666666666"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>

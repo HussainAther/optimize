@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="dm6" hasGeneTrack="true" hasSequenceTrack="true" locus="chr2L:20285843-20289090" nextAutoscaleGroup="2" path="/Users/athersh/Desktop/ml/igv_sessions/s2mod.xml" version="8">
+    <Resources>
+        <Resource path="/Users/athersh/Desktop/ml/bigwigs/sjl_s2_mod_R1_coverage.bw"/>
+        <Resource path="/Users/athersh/Desktop/ml/bigwigs/sjl_s2_input_R1_coverage.bw"/>
+    </Resources>
+    <Panel height="390" name="DataPanel" width="1133">
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/athersh/Desktop/ml/bigwigs/sjl_s2_mod_R1_coverage.bw" name="sjl_s2_mod_R1_coverage.bw" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="267.789" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/athersh/Desktop/ml/bigwigs/sjl_s2_input_R1_coverage.bw" name="sjl_s2_input_R1_coverage.bw" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="267.789" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="191" name="FeaturePanel" width="1133">
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="Reference sequence" name="Reference sequence" sortable="false" visible="true"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;817.0;255,255,255;0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="35" id="dm6_genes" name="Gene" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="817.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <PanelLayout dividerFractions="0.6666666666666666"/>
+    <Regions>
+        <Region chromosome="chr2L" description="noPeaks" end="19839205" start="19774124"/>
+        <Region chromosome="chr2L" description="peakStart" end="19841547" start="19841388"/>
+        <Region chromosome="chr2L" description="peakEnd" end="19841807" start="19841595"/>
+        <Region chromosome="chr2L" description="noPeaks" end="19843670" start="19842031"/>
+        <Region chromosome="chr2L" description="peakStart" end="19844380" start="19844165"/>
+        <Region chromosome="chr2L" description="peakEnd" end="19844718" start="19844481"/>
+        <Region chromosome="chr2L" description="noPeaks" end="19886028" start="19846140"/>
+        <Region chromosome="chr2L" description="peakStart" end="19887593" start="19887302"/>
+        <Region chromosome="chr2L" description="peakEnd" end="19887947" start="19887697"/>
+        <Region chromosome="chr2L" description="noPeaks" end="19894578" start="19888347"/>
+        <Region chromosome="chr2L" description="peakStart" end="19896144" start="19895647"/>
+        <Region chromosome="chr2L" description="peakEnd" end="19896714" start="19896338"/>
+        <Region chromosome="chr2L" description="noPeaks" end="19914297" start="19897240"/>
+        <Region chromosome="chr2L" description="peakStart" end="19915383" start="19915223"/>
+        <Region chromosome="chr2L" description="peakEnd" end="19915690" start="19915442"/>
+        <Region chromosome="chr2L" description="noPeaks" end="19928924" start="19916164"/>
+        <Region chromosome="chr2L" description="peakStart" end="19929964" start="19929683"/>
+        <Region chromosome="chr2L" description="peakEnd" end="19930216" start="19930065"/>
+        <Region chromosome="chr2L" description="peakStart" end="19930410" start="19930265"/>
+        <Region chromosome="chr2L" description="peakEnd" end="19930751" start="19930503"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20036451" start="19932005"/>
+        <Region chromosome="chr2L" description="peakStart" end="20040470" start="20040216"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20041080" start="20040598"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20103559" start="20043201"/>
+        <Region chromosome="chr2L" description="peakStart" end="20106703" start="20106408"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20107040" start="20106863"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20120137" start="20107640"/>
+        <Region chromosome="chr2L" description="peakStart" end="20121018" start="20120852"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20121357" start="20121128"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20137216" start="20121800"/>
+        <Region chromosome="chr2L" description="peakStart" end="20137864" start="20137590"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20138108" start="20137936"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20147823" start="20139198"/>
+        <Region chromosome="chr2L" description="peakStart" end="20148566" start="20148268"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20148822" start="20148594"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20159617" start="20149416"/>
+        <Region chromosome="chr2L" description="peakStart" end="20160346" start="20160165"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20160680" start="20160501"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20182502" start="20161311"/>
+        <Region chromosome="chr2L" description="peakStart" end="20183438" start="20183283"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20183646" start="20183510"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20189547" start="20184070"/>
+        <Region chromosome="chr2L" description="peakStart" end="20190294" start="20190064"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20190595" start="20190406"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20196714" start="20190712"/>
+        <Region chromosome="chr2L" description="peakStart" end="20197216" start="20196960"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20197551" start="20197355"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20208430" start="20198017"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20236931" start="20209508"/>
+        <Region chromosome="chr2L" description="peakStart" end="20238619" start="20238206"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20239026" start="20238691"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20249571" start="20240319"/>
+        <Region chromosome="chr2L" description="peakStart" end="20250295" start="20249878"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20250791" start="20250472"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20279199" start="20252510"/>
+        <Region chromosome="chr2L" description="peakStart" end="20283223" start="20282871"/>
+        <Region chromosome="chr2L" description="peakEnd" end="20283629" start="20283293"/>
+        <Region chromosome="chr2L" description="noPeaks" end="20287035" start="20283788"/>
+    </Regions>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
